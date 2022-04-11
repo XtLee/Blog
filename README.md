@@ -1,2 +1,48 @@
 # Blog
-Some technical articles written by myself
+
+> 个人博客
+
+## HTML&CSS&JS
+
+1. [HTML](./blogs/HTML%26CSS%26JS/HTML.md)
+2. [HTML表单](./blogs/HTML%26CSS%26JS/HTML%E8%A1%A8%E5%8D%95.md)
+3. [盒模型！！](./blogs/HTML%26CSS%26JS/%E7%9B%92%E6%A8%A1%E5%9E%8B%EF%BC%81%EF%BC%81.md)
+4. [什么是BFC？](./blogs/HTML%26CSS%26JS/%E4%BB%80%E4%B9%88%E6%98%AFBFC%EF%BC%9F.md)
+5. [CSS选择器的权重是如何抉择的？](./blogs/HTML%26CSS%26JS/CSS%E9%80%89%E6%8B%A9%E5%99%A8%E7%9A%84%E6%9D%83%E9%87%8D%E6%98%AF%E5%A6%82%E4%BD%95%E6%8A%89%E6%8B%A9%E7%9A%84%EF%BC%9F.md)
+6. [css 常见的元素居中方式](./blogs/HTML%26CSS%26JS/css%20%E5%B8%B8%E8%A7%81%E7%9A%84%E5%85%83%E7%B4%A0%E5%B1%85%E4%B8%AD%E6%96%B9%E5%BC%8F.md)
+7. [简介JavaScript发展史](./blogs/HTML%26CSS%26JS/%E7%AE%80%E4%BB%8BJavaScript%E5%8F%91%E5%B1%95%E5%8F%B2.md)
+8. [JavaScript基本语法](./blogs/HTML%26CSS%26JS/JavaScript%E5%9F%BA%E6%9C%AC%E8%AF%AD%E6%B3%95.md)
+9. [JavaScript数据类型及运算符](./blogs/HTML%26CSS%26JS/JavaScript%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B%E5%8F%8A%E8%BF%90%E7%AE%97%E7%AC%A6.md)
+10. [JavaScript条件语句](./blogs/HTML%26CSS%26JS/JavaScript%E6%9D%A1%E4%BB%B6%E8%AF%AD%E5%8F%A5.md)
+11. [Array对象](./blogs/HTML%26CSS%26JS/Array%E5%AF%B9%E8%B1%A1.md)
+12. [Math数组字符串](./blogs/HTML%26CSS%26JS/Math%E6%95%B0%E7%BB%84%E5%AD%97%E7%AC%A6%E4%B8%B2.md)
+13. [if(xx)和xx==xx的判断](./blogs/HTML%26CSS%26JS/if(xx)%E5%92%8Cxx%3D%3Dxx%E7%9A%84%E5%88%A4%E6%96%AD.md)
+14. [函数作用域以及立即执行函数表达式](./blogs/HTML%26CSS%26JS/%E5%87%BD%E6%95%B0%E4%BD%9C%E7%94%A8%E5%9F%9F%E4%BB%A5%E5%8F%8A%E7%AB%8B%E5%8D%B3%E6%89%A7%E8%A1%8C%E5%87%BD%E6%95%B0%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
+15. [正则表达式贪婪模式与非贪婪模式](./blogs/HTML%26CSS%26JS/%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F%E8%B4%AA%E5%A9%AA%E6%A8%A1%E5%BC%8F%E4%B8%8E%E9%9D%9E%E8%B4%AA%E5%A9%AA%E6%A8%A1%E5%BC%8F.md)
+16. [任务队列、异步、函数节流](./blogs/HTML%26CSS%26JS/%E4%BB%BB%E5%8A%A1%E9%98%9F%E5%88%97%E3%80%81%E5%BC%82%E6%AD%A5%E3%80%81%E5%87%BD%E6%95%B0%E8%8A%82%E6%B5%81.md)
+17. [异步加载脚本](./blogs/HTML%26CSS%26JS/%E5%BC%82%E6%AD%A5%E5%8A%A0%E8%BD%BD%E8%84%9A%E6%9C%AC.md)
+
+
+## 网络
+
+1. [从输入网址到页面展现发生了什么（浏览器渲染机制）](./blogs/%E7%BD%91%E7%BB%9C/%E4%BB%8E%E8%BE%93%E5%85%A5%E7%BD%91%E5%9D%80%E5%88%B0%E9%A1%B5%E9%9D%A2%E5%B1%95%E7%8E%B0%E5%8F%91%E7%94%9F%E4%BA%86%E4%BB%80%E4%B9%88%EF%BC%88%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E6%9C%BA%E5%88%B6%EF%BC%89.md)
+2. [URL 如何编码解码？为什么要编码？](./blogs/%E7%BD%91%E7%BB%9C/URL%20%E5%A6%82%E4%BD%95%E7%BC%96%E7%A0%81%E8%A7%A3%E7%A0%81%EF%BC%9F%E4%B8%BA%E4%BB%80%E4%B9%88%E8%A6%81%E7%BC%96%E7%A0%81%EF%BC%9F.md)
+3. [跨域解决方式](./blogs/%E7%BD%91%E7%BB%9C/%E8%B7%A8%E5%9F%9F%E8%A7%A3%E5%86%B3%E6%96%B9%E5%BC%8F.md)
+4. [浏览器存储](./blogs/%E7%BD%91%E7%BB%9C/%E6%B5%8F%E8%A7%88%E5%99%A8%E5%AD%98%E5%82%A8.md)
+
+
+## 框架
+
+1. [微信小程序无限滚动列表](./blogs/%E6%A1%86%E6%9E%B6/%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E6%97%A0%E9%99%90%E6%BB%9A%E5%8A%A8%E5%88%97%E8%A1%A8.md)
+2. [Vue组件通信](./blogs/%E6%A1%86%E6%9E%B6/Vue%E7%BB%84%E4%BB%B6%E9%80%9A%E4%BF%A1.md)
+3. [Vue3.0学习笔记-动机与组合式api简介](./blogs/%E6%A1%86%E6%9E%B6/Vue3.0%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8A%A8%E6%9C%BA%E4%B8%8E%E7%BB%84%E5%90%88%E5%BC%8Fapi%E7%AE%80%E4%BB%8B.md)
+4. [一个Vuer初涉React之便捷开发配置](./blogs/%E6%A1%86%E6%9E%B6/%E4%B8%80%E4%B8%AAVuer%E5%88%9D%E6%B6%89React%E4%B9%8B%E4%BE%BF%E6%8D%B7%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE.md)
+5. [一个Vuer初涉React之路由钩子](./blogs/%E6%A1%86%E6%9E%B6/%E4%B8%80%E4%B8%AAVuer%E5%88%9D%E6%B6%89React%E4%B9%8B%E8%B7%AF%E7%94%B1%E9%92%A9%E5%AD%90.md)
+
+
+## 语言
+
+1. [TypeScript学习笔记—基础类型和接口](./blogs/%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80/TypeScript/TypeScript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E5%9F%BA%E7%A1%80%E7%B1%BB%E5%9E%8B%E5%92%8C%E6%8E%A5%E5%8F%A3.md)
+2. [TypeScript学习笔记—类](./blogs/%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80/TypeScript/TypeScript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E7%B1%BB.md)
+3. [TypeScript学习笔记—枚举和接口](./blogs/%E5%85%B6%E4%BB%96%E8%AF%AD%E8%A8%80/TypeScript/TypeScript%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E2%80%94%E6%9E%9A%E4%B8%BE%E5%92%8C%E6%8E%A5%E5%8F%A3.md)
+
