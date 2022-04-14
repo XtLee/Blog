@@ -38,6 +38,7 @@
 3. [Vue3.0学习笔记-动机与组合式api简介](./blogs/%E6%A1%86%E6%9E%B6/Vue3.0%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0-%E5%8A%A8%E6%9C%BA%E4%B8%8E%E7%BB%84%E5%90%88%E5%BC%8Fapi%E7%AE%80%E4%BB%8B.md)
 4. [一个Vuer初涉React之便捷开发配置](./blogs/%E6%A1%86%E6%9E%B6/%E4%B8%80%E4%B8%AAVuer%E5%88%9D%E6%B6%89React%E4%B9%8B%E4%BE%BF%E6%8D%B7%E5%BC%80%E5%8F%91%E9%85%8D%E7%BD%AE.md)
 5. [一个Vuer初涉React之路由钩子](./blogs/%E6%A1%86%E6%9E%B6/%E4%B8%80%E4%B8%AAVuer%E5%88%9D%E6%B6%89React%E4%B9%8B%E8%B7%AF%E7%94%B1%E9%92%A9%E5%AD%90.md)
+6. [一个Vuer初涉React之CSS作用域](./blogs/%E6%A1%86%E6%9E%B6/%E4%B8%80%E4%B8%AAVuer%E5%88%9D%E6%B6%89React%E4%B9%8BCSS%E4%BD%9C%E7%94%A8%E5%9F%9F.md)
 
 
 ## 语言
